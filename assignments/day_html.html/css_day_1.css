@@ -1,0 +1,33 @@
+/* .navbar {
+    background-color: blue
+  }
+
+.nav-link{
+  background-color: red;
+}
+.dropdown-menu{
+  height: 10%;
+  width:100%;
+  background-color: black
+} */
+.please_work{
+  background-color: red;
+}
+.another_id{
+  background-color: rgb(255, 0, 0);
+  font-size: large;
+  height: 100%;
+}
+.container{
+background-color: aqua;
+border-color: rgb(0, 0, 0);
+border-style: solid;
+}
+.navbar-toggler{
+  justify-content: flex-end;
+}
+.dub{
+  flex-wrap: wrap;
+  max-width: 100%;
+  width:95%;
+}
