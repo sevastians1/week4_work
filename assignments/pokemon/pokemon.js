@@ -23,6 +23,8 @@ const GetPoke=async(num)=>{
         // console.log(currentNeighbor.data.sprites.other['official-artwork'].front_default)
         images[i+1].src=currentNeighbor.data.sprites.other['official-artwork'].front_default
         console.log(currentIndex, currentNeighbor, images[i+1])
+        doc=document.getElementById("123")
+        doc.innerHTML=currentNeighbor.data.species.name
 
     }
     // console.log(arrOfPoke)
